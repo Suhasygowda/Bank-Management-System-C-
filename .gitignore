@@ -1,0 +1,38 @@
+# Executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Static/Shared libraries
+*.a
+*.lib
+*.dll
+*.so
+
+# Debug files
+*.log
+
+# VS Code
+.vscode/
+
+# Code::Blocks
+bin/
+obj/
+*.layout
+*.depend
+*.cbp
+
+# CMake
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# OS files
+.DS_Store
+Thumbs.db
